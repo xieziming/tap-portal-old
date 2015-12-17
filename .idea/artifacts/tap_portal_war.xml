@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tap-portal:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="tap-portal.war">
+      <element id="artifact" artifact-name="tap-portal:war exploded" />
+    </root>
+  </artifact>
+</component>
